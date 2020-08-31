@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ section.title }} · ntuck@neu</title>
+    <link href="/bootstrap/bootstrap.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+      <h5 class="my-0 mr-md-auto font-weight-normal">
+        <a href="/">ntuck@neu</a>
+      </h5>
+      <nav class="my-2 my-md-0 mr-md-3">
+        <a class="p-2 text-dark" href="/2020-09/cs3650">3650</a>
+        <a class="p-2 text-dark" href="/2020-09/cs5335">5335</a>
+        <a class="p-2 text-dark" href="http://ccs.neu.edu/home/ntuck/">Previous Semesters</a>
+      </nav>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col">
+           <ol class="breadcrumb">
+            {% for path in section.ancestors %}
+              {% set sec = get_section(path=path) -%}
+              <li class="breadcrumb-item">
+                <a href="{{ sec.permalink }}">{{ sec.title }}</a>
+              </li>
+            {% endfor %}
+          </ol>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <h1>{{ section.title }}</h1>
+          {% if section.subsections | length > 0 %}
+          <ul>
+            {% for path in section.subsections %}
+              {% set sub = get_section(path=path) -%}
+              <li><a href="{{ sub.permalink }}">{{ sub.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+
+          {% if section.pages | length > 0 %}
+          <h2>Pages</h2>
+          <ul>
+            {% for page in section.pages %}
+            <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+
+          {{ section.content | safe }}
+        </div>
+      </div>
+    </div>
+
+    <script src="/js/jquery-3.5.1.slim.js">
+    </script>
+    <script src="/js/bootstrap/bootstrap.bundle.js">
+    </script>
+  </body>
+</html>
