@@ -1,0 +1,3 @@
+{{ body | markdown()
+        | replace(from="<table", to="<table class='table table-striped'")
+        | safe }}
