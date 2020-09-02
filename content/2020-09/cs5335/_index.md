@@ -26,8 +26,8 @@ the course with a selected topic in the current robotics research literature.
  - [scratch](https://github.com/NatTuck/scratch-2020-09) - A git repo of stuff
    that may have happened in lecture.
  - Check Canvas for Microsoft Teams link.
- - [Nat's Notes](./notes/) - Probably
-   confusing, but includes most material shown in class.
+ - [Nat's Notes](./notes/) - Probably confusing, but includes most material
+   shown in class.
  - [Online Lectures](./lectures/)
 
 ## Sections
@@ -53,31 +53,29 @@ the course with a selected topic in the current robotics research literature.
 
 ## Schedule
 
-(DRAFT!)
-
 Assignments will frequently be due at 11:59pm on Thursday.
+
+Information about assignments and due dates appear here, on Canvas, and on
+Inkfish. **Only the assignments and due dates listed on Inkfish matter.**
 
 {% striped() %}
 |Week| Starts    | Topics                               | Work Due  |
 |----| --------  | --------                             | --------- |
 | 1  | Sep 7  (α)| Intro; Sim Demo                      | -         |
-| 2  | Sep 14    | Gazebo Simulator; Reactive Control   | HW1: Hello Sim |
-| 3  | Sep 21    | Kerbal Space Program; Kerboscript    | HW2: Hello Rocket |
-| 4  | Sep 28    |                                      | HW3: Launching |
-| 5  | Oct 5     | ...                                  | HW4: Landing |
-| 6  | Oct 12    | ...                                  | HW5: Hello Robot |
-| 7  | Oct 19    | ...                                  | HW6: Robot - Wall Follow |
-| 8  | Oct 26    | ...                                  | Proj1: Proposal
-| 9  | Nov 2     | ...                                  | 
-| 10 | Nov 9     | ...                                  | Proj1: Due
-| 11 | Nov 16    | Ethics          | ... |
-| 12 | Nov 23 (β)|                 | ... |
-| 13 | Nov 30    | Presentations   | Final Project Due Monday |
-| 14 | Dec 7  (γ)| Wrap-Up         | ... |
+| 2  | Sep 14    | Gazebo Simulator; Reactive Control   | HW1: Hello Sim Robot (δ) |
+| 3  | Sep 21    | Kerbal Space Program; Kerboscript    | HW2: Hello Spaceship (δ) |
+| 4  | Sep 28    | ...                                  | HW3: ?? |
+| 5  | Oct 5     | ...                                  | HW4: ?? |
+| 6  | Oct 12    | ...                                  | HW5: ?? |
+| 7  | Oct 19    | ...                                  | HW6: ?? |
+| 8  | Oct 26    | ...                                  | HW7: ?? |
+| 9  | Nov 2     | ...                                  | Project Proposal (δ) |
+| 10 | Nov 9     | ...                                  | HW8: ?? | 
+| 11 | Nov 16    | ...                                  | (work on project) |
+| 12 | Nov 23 (β)| ...                                  | (work on project) |
+| 13 | Nov 30    | Presentations                 | Final Project Due Monday (δ) |
+| 14 | Dec 7  (γ)| Wrap-Up                              | - |
 {% end %}
-
-FIXME: Preproject? Two assignments? Points?
-
 
  * α. First class Thursday
  * β. No class Thursday: Thanksgiving Vacation
@@ -85,46 +83,62 @@ FIXME: Preproject? Two assignments? Points?
 
 ## Required Materials
 
-(DRAFT, don't buy anything)
-
  - Kerbal Space Program on Steam
- - A Robot Kit
+ - (Optional) Makeblock mBot Ranger Robot Kit
 
-## Tasks and Grading
+We won't be using the robot kit in September, so you can safely hold off on
+deciding if you want to buy it until you have more information on what we'll be
+doing with it.
 
- - Completing tasks gets you points.
- - Each task is worth some number of points.
- - Some tasks are extra credit, which don't count towards the total number of
-   points offered.
+## Assignments and Grading
+
+For all regular assignments:
+
+ - Each regular assignment is worth two points.
+ - If you don't submit anything, you get no points.
+ - If it doesn't work at all (compile, run, do stuff, etc), you get no points.
+ - If it's not excellent, you lose a point.
+
+Homework: 
+
+ - There are approximately 8 homeworks.
+ - The first two homeworks are mandatory.
+
+Project:
+
+ - The project consists of four parts (each an assignment worth two points).
+ - The project proposal is due earlier.
+ - The remaining three parts are due on the project due date: Code, Presentation, Demo
+ - All parts of the project are mandatory.
+
+4610 vs 5335:
+
+ - Students registered for 5335 will be expected to do extra stuff on some assignments.
+
+Participation:
+
+ - There are two participation "assignments":
+ - First, ask and answer good questions on Piazza.
+ - Second, participate in discussion in the General channel on Teams.
 
 Final grades:
 
  - If you get all the regular points, you get an A.
  - Every two points missed reduces your grade by one level (A, A-, B+, B, B-, C, D, F)
+ - If you fail to submit a serious attempt at any mandatory assignment, you get an F.
 
-To be clear:
+Bonus points:
 
- - If you don't submit anything, you get no points.
- - If it doesn't work, you get no points.
- - If it's not excellent, you lose a point.
-
-## Tasks
-
-(DRAFT, don't buy anything)
-
- - Homeworks: 3-4 of them, 10 points each
- - Small Projects: 2-3 of them, 2 points each
- - Final Project:
-   - Proposal, 2 points
-   - Functionality, 4 points
-   - Presentation, 2 points
+ - There may be bonus tasks during the semester.
+ - A bonus task is worth one point.
+ - Bonus task points don't count towards "all regular points", so act as extra credit.
+ - There may be zero bonus tasks.
 
 ### Late Work
 
-Work submitted late is worth one point less.
+Late submissions will be penalized 1% per hour late.
 
-Work submitted more than 48 hours late, or submitted late on or after December
-1st, will not be accepted for credit.
+Final project submissions will not be accepted after presentations start.
 
 **Late Registration**
 
@@ -135,12 +149,6 @@ at most one assignment due after your registration date.
 
 Late submissions will be penalized per the normal policy without an explicit
 written extension from the instructor.
-
-### Participation
-
- - Participating on Piazza and Teams is a task worth two points.
- - Excellent participation means asking good questions, providing good answers,
-   and actively participating in discussion in the Teams General channel.
 
 ## Policies
 
@@ -183,41 +191,24 @@ student athlete, let me know as soon as possible.
 
 ### Code Copying &amp; Collabaration Policy
 
-FIXME: Writing libraries. point?
-
 Copying code and submitting it without proper attribution is strictly prohibited
 in this class. This is plagiarism, which is a serious violation of academic
 integrity.
 
-Providing solution code to other students is also strictly prohibited.
-
-**Details**
-
- - For solo assignments, you should personally write your code either from
-   scratch or using only the starter code provided in the assignment.
- - For team assignments, your team should do the same.
-
-**Lecture Notes**
-
-Lecture notes are *not* starter code, and should not be copied without
-attribution. As long as attribution is provided, there is no penalty for using
-code from the lecture notes.
+Providing solution code to other student that solves the core challenge of an
+assignment is also strictly prohibited unless you're working with them on a team
+project.
 
 **Collaboration and Attribution**
 
-Since it's not plagiarism if you provide attribution, as a special exception
-to these rules, any code sharing with attribution will not be treated as a
-major offense.
+Using code written by others *with* appropriate attribution is frequently
+appropriate. Properly attributed code will never be treated as plagarism in this
+class.
 
-There is no penalty for copying small snippets of code (a couple of lines) with
-attribution as long as this code doesn't significantly impact the intended
-challenge of the assignment. This should be in a comment above these lines
-clearly indicating the source (including author name and URL, if any).
-
-If you copy a large amount of code with attribution, you won't recieve credit
-for having completed that portion of the assignment, but there will be no further
-penalty. The attribution must be obvious and clearly indicate both which code it
-applies to and where it came from.
+You are still expected to complete the assignment yourself, which includes
+writing the solution code to solve the core challenge of the assignment. If you
+submit code with attributions that show that you did not appropriately complete
+the assignment yourself, you will not recieve credit for that assignment.
 
 **Posting Code on the Web**
 
@@ -227,6 +218,9 @@ You may post code written for this class publically on the web as long as:
  * You provide clear attribution for any external code.
  * You note that your code was written for this class, including which
    assignment the code was written for.
+
+If your code is potentially useful to others, it would be nice for you to post
+it as a git repository and explicitly license it under an open source license.
 
 **Penalty for Plagarism or Providing Solution Code**
 
@@ -239,5 +233,4 @@ Avoid copying code if you can. If you're looking at an example, understand what
 it does, type something similar that is appropriate to your program, and provide
 attribution. If you must copy code, put in the attribution immediately, every
 time or you will fail the course over what feels like a minor mistake.
-
 

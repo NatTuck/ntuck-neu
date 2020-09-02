@@ -98,6 +98,9 @@ This is an initial schedule, subject to revision as the semester progresses.
 
 Assignments will frequently be due at 11:59pm on Monday.
 
+Information about assignments and due dates appear here, on Canvas, and on
+Inkfish. **Only the assignments and due dates listed on Inkfish matter.**
+
 {% striped() %}
 |Week| Starts     | Topics                                                 | Work Due  |
 |----| --------   | --------                                               | -----     |
@@ -190,8 +193,7 @@ professor's office hours to discuss how you can catch up.
 
 ### Late Work
 
-For all assignments except the last challenge, late submissions will be
-penalized by 1% for each hour late.
+Late submissions will be penalized by 1% for each hour late.
 
 For the final assignment, late submissions will not be accepted after the sun
 comes up in Boston and the TAs start grading.
@@ -200,7 +202,7 @@ comes up in Boston and the TAs start grading.
 
 If you register late for the course please contact the professor for extended
 homework due dates as soon as possible. In general you will be expected to
-complete all of your assignments in order, and you will recieve an extension on
+complete all of your assignments in order, and you will receive an extension on
 at most one assignment due after your registration date.
 
 Late submissions will be penalized per the normal policy without an explicit
