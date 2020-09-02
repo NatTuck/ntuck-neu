@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./20-os-kernels/syscall-notes.md"
++++
 
 ## First: HW questions
 

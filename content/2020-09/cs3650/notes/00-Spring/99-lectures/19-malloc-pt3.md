@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./99-lectures/19-malloc-pt3.md"
++++
 
 # Lecture #19: Allocators Part 3
 

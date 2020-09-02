@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./20-os-kernels/tour-notes.md"
++++
 
  
 ## xv6: An Operating System

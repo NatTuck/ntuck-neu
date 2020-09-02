@@ -24,9 +24,9 @@ deadlock, memory management, file systems, and input/output control.
  - [Linux / Unix Help](http://www.ccs.neu.edu/course/cs3650/parent/help/)
  - [scratch](https://github.com/NatTuck/scratch-2020-09) - A git repo of stuff
    that may have happened in lecture.
- - [Nat's Notes](https://www.ntuck-neu.site/2020-09/cs3650/notes/) - Probably
+ - [Nat's Notes](./notes/) - Probably
    confusing, but includes most material shown in class.
- - [Online Lectures](https://www.ntuck-neu.site/2020-09/cs3650/lectures/)
+ - [Online Lectures](./lectures/)
 
 ## AMD64 ASM resources
 
@@ -34,7 +34,8 @@ deadlock, memory management, file systems, and input/output control.
  - [AMD Programmer's Manual, Volume 3](https://support.amd.com/TechDocs/24594.pdf)
  - [AMD64 Linux
    Syscalls](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
- - [AMD64 ASM Cheat Sheet](./amd64_asm.html)
+ - [AMD64 ASM Cheat Sheet](./asm/cheatsheet)
+ - [AMD64 ASM Recipe](./asm/recipe)
    
 ## Sections
 

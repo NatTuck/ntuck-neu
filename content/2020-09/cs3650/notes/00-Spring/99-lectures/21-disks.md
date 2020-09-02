@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./99-lectures/21-disks.md"
++++
 
 # Lecture #21: Disk Hardware and RAID
 

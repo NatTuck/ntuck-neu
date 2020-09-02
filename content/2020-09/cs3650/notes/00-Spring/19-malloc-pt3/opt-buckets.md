@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./19-malloc-pt3/opt-buckets.md"
++++
 
 # Optimizing a Bucket Allocator
 

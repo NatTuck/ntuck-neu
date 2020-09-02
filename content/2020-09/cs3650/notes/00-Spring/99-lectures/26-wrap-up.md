@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./99-lectures/26-wrap-up.md"
++++
 
 # Lecture #26: Wrap Up
 

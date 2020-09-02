@@ -26,9 +26,9 @@ the course with a selected topic in the current robotics research literature.
  - [scratch](https://github.com/NatTuck/scratch-2020-09) - A git repo of stuff
    that may have happened in lecture.
  - Check Canvas for Microsoft Teams link.
- - [Nat's Notes](https://www.ntuck-neu.site/2020-09/cs5335/notes/) - Probably
+ - [Nat's Notes](./notes/) - Probably
    confusing, but includes most material shown in class.
- - [Online Lectures](https://www.ntuck-neu.site/2020-09/cs5335/lectures/)
+ - [Online Lectures](./lectures/)
 
 ## Sections
 
@@ -65,11 +65,11 @@ Assignments will frequently be due at 11:59pm on Thursday.
 | 3  | Sep 21    | Kerbal Space Program; Kerboscript    | HW2: Hello Rocket |
 | 4  | Sep 28    |                                      | HW3: Launching |
 | 5  | Oct 5     | ...                                  | HW4: Landing |
-| 6  | Oct 12    | ...                                  | HW5: Planning |
-| 7  | Oct 19    | ...             | HW6: Sim - Wall Follow |
-| 8  | Oct 26    | ...             | HW7: Robot - Wall Follow |
-| 9  | Nov 2     | ...             | HW8: Sim - Maze |
-| 10 | Nov 9     | ...             | HW9: Robot - Maze |
+| 6  | Oct 12    | ...                                  | HW5: Hello Robot |
+| 7  | Oct 19    | ...                                  | HW6: Robot - Wall Follow |
+| 8  | Oct 26    | ...                                  | Proj1: Proposal
+| 9  | Nov 2     | ...                                  | 
+| 10 | Nov 9     | ...                                  | Proj1: Due
 | 11 | Nov 16    | Ethics          | ... |
 | 12 | Nov 23 (β)|                 | ... |
 | 13 | Nov 30    | Presentations   | Final Project Due Monday |

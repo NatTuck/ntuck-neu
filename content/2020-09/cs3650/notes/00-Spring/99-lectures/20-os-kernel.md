@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./99-lectures/20-os-kernel.md"
++++
 
 # Lecture #20: OS Kernel
 

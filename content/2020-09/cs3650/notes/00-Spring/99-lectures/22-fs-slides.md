@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./99-lectures/22-fs-slides.md"
++++
 
 # Lecture #22: File Systems Slides
 

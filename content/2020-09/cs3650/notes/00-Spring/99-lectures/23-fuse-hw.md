@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./99-lectures/23-fuse-hw.md"
++++
 
 # Lecture #23: FS Homework and FUSE
 

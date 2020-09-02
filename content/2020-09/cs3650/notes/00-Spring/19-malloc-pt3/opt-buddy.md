@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./19-malloc-pt3/opt-buddy.md"
++++
 
 # Optimizing a Buddy Allocator
 

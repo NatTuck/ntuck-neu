@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./99-lectures/25-cpar.md"
++++
 
 # Lecture #25: Solutions for Concurrency and Parallelism
 

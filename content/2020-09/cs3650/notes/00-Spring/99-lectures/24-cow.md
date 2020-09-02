@@ -1,6 +1,6 @@
----
-layout: default
----
++++
+title = "./99-lectures/24-cow.md"
++++
 
 # Lecture #24: Copy on Write
 

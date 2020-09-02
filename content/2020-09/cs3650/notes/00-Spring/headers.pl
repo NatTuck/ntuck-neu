@@ -16,16 +16,22 @@ sub cleanup {
   LINE:
     while (<$src>) {
         chomp;
-        if (/^---$/) {
+        if (/^(---|\+\+\+)$/) {
             while (<$src>) {
-                next LINE if (/^---$/);
+                last LINE if (/^(---|\+\+\+)$/);
             }
         }
+    }
+
+    while (<$src>) {
+        chomp;
         $dst->say($_);
     }
-    close($md);
 
-    exit(0);
+    close($dst);
+    close($src);
+
+    unlink("$path.tmp");
 }
 
 
