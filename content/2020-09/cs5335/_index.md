@@ -44,7 +44,7 @@ the course with a selected topic in the current robotics research literature.
 {% striped() %}
 | Name            | Location | Hours                    | Email                           |
 |-----------------|----------|--------------------------|---------------------------------|
-| Nat Tuck        | TBA      | TBA                      | ntuck ⚓ ccs.neu.edu             |
+| Nat Tuck        | MS Teams | We 2pm-3pm               | ntuck ⚓ ccs.neu.edu             |
 | More TBA        | ...      | ...                      | ...                             |
 {% end %}
 
