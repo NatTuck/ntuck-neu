@@ -1,5 +1,5 @@
 +++
-title = "3650 Lecture 01: Welcome
+title = "3650 Lecture 01: Welcome"
 +++
 
 # Lecture videos:
