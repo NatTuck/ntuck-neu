@@ -21,7 +21,7 @@ the course with a selected topic in the current robotics research literature.
 
 ## Essential Resources
 
- - [Inkfish](https://inkfish.ccs.neu.edu) - View and submit homework assignments.
+ - [Inkfish](https://inkfish.ntuck-neu.site) - View and submit homework assignments.
  - [Piazza](https://piazza.com/northeastern/fall2020/cs4610cs5335) - Class discussion & announcements.
  - [scratch](https://github.com/NatTuck/scratch-2020-09) - A git repo of stuff
    that may have happened in lecture.

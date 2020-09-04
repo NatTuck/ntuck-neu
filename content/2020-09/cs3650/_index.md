@@ -18,7 +18,7 @@ deadlock, memory management, file systems, and input/output control.
 
 ## Essential Resources
 
- - [Inkfish](https://inkfish.ccs.neu.edu) - View and submit homework assignments.
+ - [Inkfish](https://inkfish.ntuck-neu.site/) - View and submit homework assignments.
  - [Piazza](https://piazza.com/northeastern/fall2020/cs3650) - Class discussion and annoucements.
  - Check Canvas for Microsoft Teams link.
  - [Linux / Unix Help](http://www.ccs.neu.edu/course/cs3650/parent/help/)
