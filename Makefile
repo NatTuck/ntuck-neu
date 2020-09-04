@@ -7,5 +7,12 @@ all:
 	rm -rf public
 	zola build
 
+serve:
+	zola serve
+
+s: serve
+
 ship: all
 	rsync $(FLAGS) $(LOCAL) $(REMOTE)
+
+.PHONY: all server s ship
