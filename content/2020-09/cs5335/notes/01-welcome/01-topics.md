@@ -3,31 +3,38 @@ title = "Welcome: 01 Topics"
 weight = 1
 +++
 
-Where does this course fit in?
 
- - You're a CS major, or maybe from COE.
- - You can write computer programs.
- - In this course, we explore some of the details of how
-   actual programs run on concrete computers.
+## What's a robot? 
 
-The plot:
+(none of this is useful)
 
- - To do things, programs need to use hardware resources.
- - 1980 personal computer: one program at a time.
- - Two programs at a time means conflicts (who gets input from
-   keyboard? don't want to mix output to line printer!)
- - Add a dedicated program to talk the the hardware: the OS. Other
-   programs ask the OS to access shared resources for them.
- - To ask the OS to do stuff for you, you make a system call.
- - This class is about writing programs that use system calls.
- - System calls are different on different operating systems,
-   so we need to pick a specific one to use.
- - We're using Linux. More specifically, Debian 10.
- - Even with an OS, programs are still written to target a specific
-   hardware archetecture.
- - Compiled programs are binary data - machine code - and different
-   kinds of processors have different machine codes.
- - We'll be using the normal archetecture for desktop / laptop computers,
-   the AMD64 archetecture.
- - A platform is the combination of processor archetecture and OS,
-   for us that's AMD64 Linux.
+People use the term broadly, covering everything from artifically intelligent
+agents in video games to assistive exoskeletons that are basically just
+hydraulic pants.
+
+My personal definition of "robot" is more strict:
+
+ - A robot is a machine that exists in the physical world.
+ - It has sensors that let it sense the world around it.
+ - It has actuators that let it interact with the world around it.
+ - It's running software that can control it sufficiently to autonomously
+   perform a complex physical task using the sensors and actuators.
+
+And in this class we're going to focus on *mobile* robots, where some of the
+actuators need to let the robot move around. So robot arms on assembly lines are
+robots, but we're not going to talk about them.
+
+insetad, examples:
+
+Teaching robot: https://www.youtube.com/watch?v=SFfYNPrc6c4
+
+Self-driving car: https://www.youtube.com/watch?v=ITa1y5brYoI
+
+SpaceX launch: https://www.youtube.com/watch?v=ANv5UfZsvZQ
+
+
+## What robots are we using?
+
+
+
+
