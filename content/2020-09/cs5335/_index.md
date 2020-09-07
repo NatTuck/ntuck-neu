@@ -42,10 +42,11 @@ the course with a selected topic in the current robotics research literature.
 ## Staff & Office Hours
 
 {% striped() %}
-| Name            | Location | Hours                    | Email                           |
-|-----------------|----------|--------------------------|---------------------------------|
-| Nat Tuck        | MS Teams | We 2pm-3pm               | ntuck ⚓ ccs.neu.edu             |
-| More TBA        | ...      | ...                      | ...                             |
+| Name      | Location | Hours      | Email                          |
+|-----------|----------|----------- |--------------------------------|
+| Nat Tuck  | MS Teams | We 2pm-3pm | ntuck ⚓ ccs.neu.edu            |
+| Xingyu Lu | MS Teams | Tu 2pm-3pm | lu.xingy ⚓ northeastern.edu    | 
+| Sarfaraz Quadri | MS Teams | TBA  | lquadri.s ⚓ northeastern.edu   | 
 {% end %}
 
  * Office hours run from September 14th to Dec 16th.
