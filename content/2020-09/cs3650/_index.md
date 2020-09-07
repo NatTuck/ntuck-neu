@@ -55,6 +55,7 @@ These sections will vary somewhat in assignments and topics.
 | Name            | Location | Hours                    | Email                           |
 |-----------------|----------|--------------------------|---------------------------------|
 | Nat Tuck        | MS Teams | We 2pm-3pm               | ntuck ⚓ ccs.neu.edu             |
+| Amitesh Deshpande  | MS Teams | Th 5pm-6pm               | deshpande.am ⚓ northeastern.edu        |
 | More TBA        | ...      | ...                      | ...                             |
 {% end %}
 

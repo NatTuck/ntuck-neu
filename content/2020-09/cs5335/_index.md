@@ -46,7 +46,7 @@ the course with a selected topic in the current robotics research literature.
 |-----------|----------|----------- |--------------------------------|
 | Nat Tuck  | MS Teams | We 2pm-3pm | ntuck ⚓ ccs.neu.edu            |
 | Xingyu Lu | MS Teams | Tu 2pm-3pm | lu.xingy ⚓ northeastern.edu    | 
-| Sarfaraz Quadri | MS Teams | TBA  | lquadri.s ⚓ northeastern.edu   | 
+| Sarfaraz Quadri | MS Teams | Th 5pm-6pm  | lquadri.s ⚓ northeastern.edu   | 
 {% end %}
 
  * Office hours run from September 14th to Dec 16th.
