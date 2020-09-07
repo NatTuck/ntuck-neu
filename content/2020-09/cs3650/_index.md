@@ -56,7 +56,7 @@ These sections will vary somewhat in assignments and topics.
 |-----------------|----------|--------------------------|---------------------------------|
 | Nat Tuck        | MS Teams | We 2pm-3pm               | ntuck ⚓ ccs.neu.edu             |
 | Amitesh Deshpande  | MS Teams | Th 5pm-6pm               | deshpande.am ⚓ northeastern.edu        |
-| More TBA        | ...      | ...                      | ...                             |
+| Vikas Veerabathini  | MS Teams | Tu 5pm-6pm               | veerabathini.v ⚓ northeastern.edu        |
 {% end %}
 
  * Office hours run from September 14th to Dec 16th.
