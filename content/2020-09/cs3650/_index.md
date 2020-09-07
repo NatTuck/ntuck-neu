@@ -97,7 +97,7 @@ Specifically, keep in mind the following for our in-person meetings:
 
 This is an initial schedule, subject to revision as the semester progresses.
 
-Assignments will frequently be due at 11:59pm on Monday.
+Assignments will frequently be due at 11:59pm on Tuesday.
 
 Information about assignments and due dates appear here, on Canvas, and on
 Inkfish. **Only the assignments and due dates listed on Inkfish matter.**
