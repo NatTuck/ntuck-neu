@@ -46,6 +46,9 @@ deadlock, memory management, file systems, and input/output control.
 |      03 | SH 335   | 2:50pm-4:30pm Mo/We  |
 {% end %}
 
+In person class meetings are optional. You can find Zoom links for remote
+participation on Canvas.
+
 Profs Alden Jackson and Gene Cooperman are also offering sections of the course.
 These sections will vary somewhat in assignments and topics.
 

@@ -39,6 +39,9 @@ the course with a selected topic in the current robotics research literature.
 | 5335-01 | RB 109   | Tu 11:45am-1:25pm; Th 2:50pm-4:30pm |
 {% end %}
 
+In person class meetings are optional. You can find Zoom links for remote
+participation on Canvas.
+
 ## Staff & Office Hours
 
 {% striped() %}
@@ -81,6 +84,7 @@ Inkfish. **Only the assignments and due dates listed on Inkfish matter.**
  * α. First class Thursday
  * β. No class Thursday: Thanksgiving Vacation
  * γ. Last class Tuesday
+ * δ. These assignments are mandatory. 
 
 ## Required Materials
 
