@@ -15,3 +15,4 @@ weight = 1
  - 03 Physical Robot
  - 04 Kerbal Space Program
  - 05 Gazebo Simulation and HW01
+ - 06 HW01 Solution
