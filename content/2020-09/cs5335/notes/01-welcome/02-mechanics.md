@@ -14,7 +14,6 @@ weight = 2
      a Teams DM.
  - Teams
    - Use general chat.
- - AMD64 hints links
  - Inkfish
  - Office Hours start next Monday.
 

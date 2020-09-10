@@ -1,6 +1,6 @@
 +++
-title = "Welcome: 05 Gazebo and HW01"
-weight = 5
+title = "Welcome: 04 Gazebo and HW01"
+weight = 4
 +++
 
 ## Gazebo

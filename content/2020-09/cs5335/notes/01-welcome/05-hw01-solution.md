@@ -1,6 +1,6 @@
 +++
-title = "Welcome: 06 HW01 Solution"
-weight = 6
+title = "Welcome: 05 HW01 Solution"
+weight = 5
 +++
 
 ## Show HW01 solution running

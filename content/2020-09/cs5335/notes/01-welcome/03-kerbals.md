@@ -1,6 +1,6 @@
 +++
-title = "Welcome: 04 Kerbal Space Program"
-weight = 4
+title = "Welcome: 03 Kerbal Space Program"
+weight = 3
 +++
 
 ## Rockets!

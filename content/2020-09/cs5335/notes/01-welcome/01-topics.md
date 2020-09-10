@@ -6,6 +6,9 @@ weight = 1
 
 ## What are we doing this semester?
 
+ - I'm Nat Tuck
+ - This is "Robotic Science and Systems" CS5335 / CS4610
+ - Video lectures: One take no edits
  - We're going to be exploring control programs for mobile robots.
  - What makes a mobile robot?
    - Sensors, Actuators, Control Program, Autonomous Behavior
@@ -44,3 +47,20 @@ this class you'll frequently need to put in some effort to understand existing
 stuff that someone else wrote before you can effectively write your piece of the
 system.
 
+## Physical Robot
+
+ - Show the MBot Ranger
+ - Focusing on this was plan A
+ - With COVID-19, this is now optional.
+
+ - One of the later HW's may optionally use the Ranger, and it's one of the
+   options for the final project.
+ - You don't need to decide now. It's safe to wait at least until October.
+ - Overall, I recommend getting one. It's a really nice toy-style robot kit that
+   has a lot of promise
+
+## Robot Examples
+
+ - Balancing Demo: https://www.youtube.com/watch?v=AzqSMy_xsZQ
+ - Solid review: https://www.youtube.com/watch?v=G7GbxMPYhXQ (fast forward to
+   the parts where the robot is moving)
