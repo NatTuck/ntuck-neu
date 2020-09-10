@@ -55,6 +55,37 @@ participation on Canvas.
  * Office hours run from September 14th to Dec 16th.
  * Cancellations and changes may be posted to Piazza.
 
+## Pandemic Adaptations / Policies
+
+Due to the ongoing pandemic, we'll be using an altered course structure this
+semester as well as following the Northeastern policies.
+
+Course structure changes:
+
+ * Primary lecture content will be provided as pre-recorded videos at the
+   beginning of each week.
+ * Our scheduled in person meetings are optional, and will consist of live demos
+   of material related to the week's lecture topic as well as live Q&A.
+ * In person meetings may end early if we run out of questions.
+ * Each student will be expected to attend at most one in person meeting per week.
+ * It may be possible to view the in person meetings and ask questions remotely
+   live using video chat software, but they will not be recorded due to privacy
+   concerns.
+ * There will not be scheduled in-person office hours. Instead there will be
+   online office hours only.
+
+Make sure you are familar with the [university
+policies](https://news.northeastern.edu/coronavirus/) for being on campus and
+attending classes during the COVID-19 pandemic.
+
+Specifically, keep in mind the following for our in-person meetings:
+
+ * Everyone is expected to wear a mask.
+ * Everyone is expected to maintain six foot social distancing.
+ * Keeping masks on means no food in class.
+ * Maintaining six foot distancing will mean that entering and leaving the
+   classroom takes extra time. Make sure to arrive on time.
+
 ## Schedule
 
 Assignments will frequently be due at 11:59pm on Thursday.
