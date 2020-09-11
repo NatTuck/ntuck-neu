@@ -1,6 +1,6 @@
 +++
-title = "3650 Week 2: 02 ASM Function Call"
-weight = 1
+title = "3650 Week 2: 02 AMD64 Instructions"
+weight = 2
 +++
 
 ## AMD64 Instructions

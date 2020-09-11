@@ -5,7 +5,7 @@ weight = 6
 
 ## Command Line args
 
- - [compare.S](./compare.S)
+ - [compare.S](../compare.S)
 
 ## Data Directives
 

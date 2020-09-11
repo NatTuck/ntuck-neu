@@ -1,5 +1,6 @@
 +++
-title = "ASM Recipe"
+title = "3650 Week 2: 04 ASM Recipe"
+weight = 4
 +++
 
 ## How to write an ASM program
