@@ -55,12 +55,12 @@ These sections will vary somewhat in assignments and topics.
 ## Staff & Office Hours
 
 {% striped() %}
-| Name            | Location | Hours                    | Email                           |
-|-----------------|----------|--------------------------|---------------------------------|
-| Nat Tuck        | MS Teams | We 1pm-2pm               | ntuck ⚓ ccs.neu.edu             |
-| Amitesh Deshpande  | MS Teams | Th 5pm-6pm               | deshpande.am ⚓ northeastern.edu        |
-| Vikas Veerabathini  | MS Teams | Tu 5pm-6pm               | veerabathini.v ⚓ northeastern.edu        |
-| Ishani Kapoor | MS Teams | Mo 11am-noon               | kapoor.i ⚓ northeastern.edu        |
+| Name            | Location | Hours            | Email                              |
+|-----------------|----------|------------------|------------------------------------|
+| Nat Tuck        | MS Teams | We 1pm-2pm       | ntuck ⚓ ccs.neu.edu                |
+| Amitesh Deshpande  | MS Teams | Th 5pm-6pm    | deshpande.am ⚓ northeastern.edu    |
+| Vikas Veerabathini  | MS Teams | Tu 5pm-6pm   | veerabathini.v ⚓ northeastern.edu  |
+| Ishani Kapoor | MS Teams | Mo 11:30am-11:30am | kapoor.i ⚓ northeastern.edu        |
 {% end %}
 
  * Office hours run from September 14th to Dec 16th.
