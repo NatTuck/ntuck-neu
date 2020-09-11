@@ -62,7 +62,6 @@ These sections will vary somewhat in assignments and topics.
 | Vikas Veerabathini  | MS Teams | Tu 5pm-6pm               | veerabathini.v ⚓ northeastern.edu        |
 | Ishani Kapoor | MS Teams | Mo 11am-noon               | kapoor.i ⚓ northeastern.edu        |
 {% end %}
-{% end %}
 
  * Office hours run from September 14th to Dec 16th.
  * Cancellations and changes may be posted to Piazza.
