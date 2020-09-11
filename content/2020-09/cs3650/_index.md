@@ -30,7 +30,7 @@ deadlock, memory management, file systems, and input/output control.
 
 ## AMD64 ASM resources
 
- - [x86-64 SysV ABI](https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI) [pdf](./asm/x86-64-sysv-abi.pdf)
+ - [x86-64 SysV ABI](https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI) ([pdf](./asm/x86-64-sysv-abi.pdf))
  - [AMD Programmer's Manual, Volume 3](https://support.amd.com/TechDocs/24594.pdf)
  - [AMD64 Linux
    Syscalls](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
