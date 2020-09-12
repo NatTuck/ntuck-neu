@@ -1,5 +1,6 @@
 +++
 title = "Robots Lecture 01: Welcome"
+weight = 1
 +++
 
 # Lecture Videos:

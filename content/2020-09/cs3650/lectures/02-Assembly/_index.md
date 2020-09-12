@@ -1,5 +1,5 @@
 +++
-title = "02 - Assembly"
+title = "Lecture 02 - Assembly"
 weight = 2 
 +++
 
