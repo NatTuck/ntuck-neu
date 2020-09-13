@@ -254,8 +254,6 @@ You may post code written for this class publically on the web as long as:
  * You provide clear attribution for any external code.
  * You note that your code was written for this class, including which
    assignment the code was written for.
- * If the code solves an assignment, wait to publish it until at least 100 hours
-   after the assignment due date.
 
 If your code is potentially useful to others, it would be nice for you to post
 it as a git repository and explicitly license it under an open source license.
