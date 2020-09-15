@@ -7,9 +7,8 @@ weight = 2
 
  - [01 Obstacle Avoidance](https://youtu.be/22C3TfUgiUA)
  - [02 Rocket Launch Overview](https://youtu.be/K2LMV86V6FE)
- - ... more later
-
-
+ - [03 Gazebo Sim](https://youtu.be/LQK85ZqQeqM)
+ - [04 Kerboscript](https://youtu.be/mt87fEZyKeI)
 
 ## Recommended Videos
 

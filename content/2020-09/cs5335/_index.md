@@ -30,6 +30,11 @@ the course with a selected topic in the current robotics research literature.
    shown in class.
  - [Online Lectures](./lectures/)
 
+## Documentation
+
+ - [KOS](https://ksp-kos.github.io/KOS/index.html)
+ 
+
 ## Sections
 
 {% striped() %}
