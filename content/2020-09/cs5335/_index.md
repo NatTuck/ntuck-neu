@@ -33,7 +33,7 @@ the course with a selected topic in the current robotics research literature.
 ## Documentation
 
  - [KOS](https://ksp-kos.github.io/KOS/index.html)
- 
+ - [Gazebo](http://gazebosim.org/tutorials)
 
 ## Sections
 
