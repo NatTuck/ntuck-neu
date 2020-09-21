@@ -8,6 +8,7 @@ weight = 3
  - [01 Mun Mission](https://youtu.be/GXUnaNNtRZM)
  - Keplerian Mechanics video (below)
  - [02 Expected Complications](https://youtu.be/Wz1DJKvJwA4)
+ - [03 What Do Orbital Burns Do?](https://youtu.be/uoP0Ai0-jrY)
 
 # External Videos
 
