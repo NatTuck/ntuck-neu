@@ -53,6 +53,18 @@
           {{ page.content | safe }}
         </div>
       </div>
+
+      {% if page.assets | length > 0 %}
+      <div class="row">
+        <div class="col">
+          <ul>
+            {% for path in page.assets %}
+            <li><a href="{{ path }}">{{ path }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endif %}
     </div>
 
     <script src="/js/jquery-3.5.1.slim.js">

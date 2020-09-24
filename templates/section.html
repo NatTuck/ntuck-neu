@@ -57,6 +57,19 @@
           {{ section.content | safe }}
         </div>
       </div>
+      {% if section.assets | length > 0 %}
+      <div class="row">
+        <div class="col">
+          <h2>Files</h2>
+          <ul>
+            {% for path in section.assets %}
+              {% set name = path | split(pat="/") | last %}
+            <li><a href="./{{ name }}">{{ name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endif %}
     </div>
 
     <script src="/js/jquery-3.5.1.slim.js">
