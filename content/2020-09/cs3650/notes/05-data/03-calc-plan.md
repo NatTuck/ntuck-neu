@@ -1,12 +1,7 @@
 +++
-title = "./09-calculator/notes.md"
+title = "Calc Plan"
+weight = 3
 +++
-
-# Computer Systems
-
-## First Thing
-
- - Questions on the Homework?
 
 ## Calculator
 

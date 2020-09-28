@@ -1,10 +1,7 @@
 +++
-title = "./08-hash-tables/notes.md"
+title = "Hash Tables"
+weight = 1
 +++
-
-# Computer Systems
-
-## HW Questions?
 
 # Hash Tables
 
@@ -121,10 +118,3 @@ Linear probing complications:
  - Plan A: tombstone flag
  - Plan B: Rehash items and move them back until next empty or correct slot.
 
-# Building a hash table
-
-We're going to build a (string => string) hash table.
-
- - See animals.c
-
-# Overflow: Describe Balanced Binary Trees
