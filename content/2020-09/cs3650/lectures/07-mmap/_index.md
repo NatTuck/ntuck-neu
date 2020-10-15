@@ -9,4 +9,5 @@ weight = 7
  - [Virtual Memory](https://youtu.be/OX6TcthBrHU)
  - [mmap I/O](https://youtu.be/yTokIGvr348)
  - [Shared Memory](https://youtu.be/TUtUeDySmvs)
- - ... one more
+ - [Data Races](https://youtu.be/lZk4HWnXk5c)
+ - [Deadlock](https://youtu.be/yF5GQsYEt54)
