@@ -1,6 +1,6 @@
 +++
-title = "Robots Lecture 06: Mapping"
-weight = 6
+title = "Robots Lecture 07: Pathfinding"
+weight = 7
 +++
 
 # Lecture Videos:
@@ -8,6 +8,9 @@ weight = 6
  - [HW07: Pathfinding](https://youtu.be/Y_LczaXyej4)
 
 The viz program: https://github.com/kevinwang1975/PathFinder
+
+Important note: Make sure you've looked at the Project Proposal assignment and
+have a team.
 
 # External Resources
 
