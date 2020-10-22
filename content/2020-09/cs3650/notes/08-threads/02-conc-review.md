@@ -1,6 +1,6 @@
 +++
 title = "Concurrency Review"
-weight = 1
+weight = 2
 +++
 
 ## Review Data Race & Deadlocks

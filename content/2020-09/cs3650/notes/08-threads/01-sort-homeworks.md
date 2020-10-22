@@ -1,7 +1,16 @@
 +++
-title = "HW07"
-weight = 4
+title = "Homework 6 and 7"
+weight = 1
 +++
+
+## HW06
+
+ - Introduce quicksort => sample sort
+ - Introduce HW06
+
+## Barrier Review
+
+[barrier.c](../barrier.c)
 
 # Computer Systems
 
