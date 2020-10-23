@@ -1,11 +1,11 @@
 +++
-title = "Robots Lecture 07: Pathfinding"
-weight = 7
+title = "Robots Lecture 08: Project"
+weight = 8
 +++
 
 # Lecture Videos:
 
- - [HW07: Pathfinding](https://youtu.be/Y_LczaXyej4)
+ - (videos soon...)
 
 # External Resources
 
