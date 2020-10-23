@@ -5,7 +5,9 @@ weight = 8
 
 # Lecture Videos:
 
- - (videos soon...)
+ - [The Project](https://youtu.be/nkvGw2koUMA)
+ - [Localization and SLAM](https://youtu.be/ZacNmTN31sY)
+ - [More Project Ideas](https://youtu.be/6nHEgZgXNVE)
 
 # External Resources
 
