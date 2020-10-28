@@ -1,5 +1,6 @@
 +++
-title = "./17-malloc/notes.md"
+title = "malloc"
+weight = 3 
 +++
 
 # Computer Systems
@@ -63,7 +64,7 @@ Problem 1: Where do we store the size of a chunk?
 So when someone requests a chunk of size B, we allocate B + 8 bytes
 layed out as follows:
 
- - Size (size_t = 8 bytes)
+ - Size (size\_t = 8 bytes)
  - That many bytes of memory for the user.
 
 We return a pointer to the memory after the size.
