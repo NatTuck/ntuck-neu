@@ -12,7 +12,8 @@ $ sudo apt install opencv-dev opencv-doc
 
 # Lecture Videos:
 
- - 
+ - [Introducing HW08](https://youtu.be/leIfE7P8XqQ)
+ - [OpenCV Demo](https://youtu.be/UyFJ0wkIr9s)
 
 # External Resources
 
