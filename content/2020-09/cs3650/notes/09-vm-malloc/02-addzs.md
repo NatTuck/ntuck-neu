@@ -64,6 +64,8 @@ lstopo
    - Latency: 1ns = 4 cycles
    - Throughput: > 1000 GB/s
 
+[addzs.c](../addzs.c)
+
 1B ints = 4 GB, so the memory can easily ship that in 1 second.
 
 But if every int is requested separately, it'll take 60ns * 1B = 60s
