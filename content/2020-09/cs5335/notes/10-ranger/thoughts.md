@@ -1,4 +1,6 @@
-
++++
+title = "Random Thoughts"
++++
 
 # What to explore on the ranger:
 
