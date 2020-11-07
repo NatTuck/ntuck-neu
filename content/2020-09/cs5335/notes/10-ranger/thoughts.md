@@ -12,3 +12,7 @@ title = "Random Thoughts"
 # Controlling from a phone:
 
  - Demo Android app that does serial comms.
+
+# Serial access from C++
+
+ - https://github.com/wjwwood/serial
