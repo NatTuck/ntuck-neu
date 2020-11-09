@@ -1,3 +1,6 @@
++++
+title = "Some Android notes"
++++
 
 Android Studio: https://developer.android.com/studio
 
