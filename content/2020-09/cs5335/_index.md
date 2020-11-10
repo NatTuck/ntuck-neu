@@ -53,7 +53,7 @@ participation on Canvas.
 | Name      | Location | Hours      | Email                          |
 |-----------|----------|----------- |--------------------------------|
 | Nat Tuck  | MS Teams | We 1pm-2pm | ntuck ⚓ ccs.neu.edu            |
-| Xingyu Lu | MS Teams | Tu 2pm-3pm | lu.xingy ⚓ northeastern.edu    | 
+| Xingyu Lu | MS Teams | Tu 1:30pm-2:30pm | lu.xingy ⚓ northeastern.edu    | 
 | Sarfaraz Quadri | MS Teams | Th 5pm-6pm  | quadri.s ⚓ northeastern.edu   | 
 {% end %}
 
