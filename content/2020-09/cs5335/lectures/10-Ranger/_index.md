@@ -7,7 +7,7 @@ weight = 10
 
  - [Mbot Ranger Intro](https://youtu.be/Y4GI5yOON-Q)
  - [Phone Control Demo](https://youtu.be/NwraVNzRYjo)
- - (more later...)
+ - [Ranger + Gazebo Example](https://youtu.be/Z6b0frno3s0)
 
 Extra notes:
 
