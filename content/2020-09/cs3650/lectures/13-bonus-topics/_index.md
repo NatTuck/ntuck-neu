@@ -16,7 +16,7 @@ write computer programs in the decade or two after 2020.
  - [Plan A: Sequential Concurrency](https://youtu.be/m8CnpBP3umY)
  - [Plan B: No Sharing](https://youtu.be/EwDqDQ_4zH4)
  - [Plan C: Functional Concurrency](https://youtu.be/ioZuzTfDs-Q)
- - [Plan D: Strict Ownership Rules(https://youtu.be/Cgv7XWgY7SY) (fixed)
+ - [Plan D: Strict Ownership Rules](https://youtu.be/Cgv7XWgY7SY) (fixed)
  - [Plan E: Transactional Memory](https://youtu.be/jznp0xYwhCE) (fixed)
 
 
