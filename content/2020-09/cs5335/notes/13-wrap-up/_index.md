@@ -32,6 +32,10 @@ Then four assignments solving mazes with a wheeled robot in Gazebo.
  - HW07 did pathfinding on the map
  - HW08 added a camera and required image processign.
 
+Final project:
+
+ - Lots of Gazebo simulations and dead batteries.
+
 # Median Grades
 
  - HW01: 2/2
