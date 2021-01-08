@@ -3,10 +3,26 @@
 
 # 2021: Broad Plan
 
-...
+## Part 1: Browser Only Game
+
+Blackjack?
+Mastermind?
+
+## Part 2: Server-Side Logic
+
+Texas Holdem?
+Mastermind?
+
+## Part 3: Simple CRUD
+
+Link aggregator with comments
+
+## Part 4: Live Comment Stream
+
+Make the comment stream live, twitch chat style.
+
 
 # 2019: Broad Plan
-
 
 ## Part 1: Game
 
