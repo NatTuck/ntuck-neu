@@ -20,14 +20,15 @@ deadlock, memory management, file systems, and input/output control.
 
  - [Inkfish](https://inkfish.ntuck-neu.site/) - View and submit homework
    assignments.
+ - Discussion site
  - [Linux / Unix Help](http://www.ccs.neu.edu/course/cs3650/parent/help/)
+ - Ferd's Scratch Repo
  - [Nat's Scratch Repo](https://github.com/NatTuck/scratch-2021-01) - A git repo of stuff
    that may have happened in lecture.
- - [Nat's Notes](./notes/) - Probably confusing, but contains the intended plan
-   for the lectures including example code.
- - [Fall 2020 Online
-   Lectures](https://ntuck-neu.site/2020-09/cs3650/lectures/) - Last semester's
-   video lectures.
+ - Previous Semesters:
+   [Notes](./notes), 
+   [Online Lectures](https://ntuck-neu.site/2020-09/cs3650/lectures/)
+ - Zoom links for lectures are available on Canvas.
 
 ## AMD64 ASM resources
 
@@ -68,7 +69,7 @@ Course structure changes:
 
  * Primary lecture content will be delivered in synchronous class meetings at
    scheduled lecture times, available both in-person and remotely by video
-   conference.
+   conference. See Canvas for Zoom links.
  * There will not be scheduled in-person office hours. Instead there will be
    online office hours only.
 

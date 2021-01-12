@@ -3,9 +3,9 @@ title = "CS4550 - Web Development"
 weight = 20
 +++
 
-# CS 4550 - Web Development
+**This is draft. Information subject to change.**
 
-Spring 2019
+Spring 2021
 
 Discusses development of web sites that are dynamic, data driven, and
 interactive. Focuses on the software development issues of integrating multiple
@@ -17,9 +17,13 @@ decisions, accomplishments, and user guidelines.
 
 ## Essential Resources
 
- - [Inkfish](https://inkfish.ntuck-neu.site) - View and submit homework assignments.
+ - [Inkfish](https://inkfish.ntuck-neu.site) - View and submit homework
+   assignments.
  - [Guides](./guides) - Instructions that might be useful.
- - [Nat's Notes](./notes) - Probably confusing, but includes most code shown in class.
+ - [Nat's Scratch Repo](https://github.com/NatTuck/scratch-2021-01) - A git repo
+   of stuff that may have happened in lecture.
+ - Discussion site.
+ - Zoom links for lectures are available on Canvas.
 
 ## Sections
 
@@ -45,23 +49,21 @@ semester starts.
 {% striped() %}
 | Week | Starts | Topics                                | Work Due                   |
 |------|--------|---------------------------------------|----------------------------|
-|    1 | Jan 18 | Intro: Dev on the Web; Server Setup   | HW01: Dev & Server Setup   |
-|    2 | Jan 25 | JS & DOM ; Elixir & Phoenix Intro     | HW02: Browser Warm Up      |
-|    3 | Feb 01 | Webpack & React                       | HW03: Server Warm Up     |
-|    4 | Feb 08 | Sockets / Channels; Server-side State | HW04: Client-Side Game     |
-|    5 | Feb 15 | OTP: GenServers, Agents, Supervisors  | HW05: Client-Server Game   |
-|    6 | Feb 22 | Resources, REST, Ecto                 | -                          |
-|    7 | Mar 01 | Relations, Relational DB              | Proj1: Multi-Player Game   |
-|    8 | Mar 08 | JSON Resources & AJAX                 | HW06: CRUD - One Model     |
-|    9 | Mar 15 | SPAs, Redux, Password Security        | HW07: CRUD - Relations     |
-|   10 | Mar 22 | Using Web APIs; OAuth2                | HW08: CRUD - SPA + PW Auth |
-|   11 | Mar 29 | Canvas, WebGL, Web Assembly           | -                          |
-|   12 | Apr 05 | NoSQL                                 | Project 2: CRUD App        |
-|   13 | Apr 12 | Presentations Part 1 & 2              | -                          |
-|   14 | Apr 19 | Patriot's Day, No Class               | -                          |
+| 1    | Jan 18 | Intro: Dev on the Web; Server Setup   | HW01: Dev & Server Setup   |
+| 2    | Jan 25 | JS & DOM ; Webpack & React            | HW02: Browser Warm Up      |
+| 3    | Feb 01 | Elixir & Phoenix Intro                | HW03: Browser Game         |
+| 4    | Feb 08 | Sockets / Channels; Server-side State | HW04: Server Warm Up       |
+| 5    | Feb 15 | OTP: GenServers, Agents, Supervisors  | HW05: Client-Server Game   |
+| 6    | Feb 22 | Resources, REST, Ecto                 | HW06: Four Player Game     |
+| 7    | Mar 01 | Relations, Relational DB              | HW07: CRUD - One Model     |
+| 8    | Mar 08 | JSON Resources & AJAX                 | HW08: CRUD - Relations     |
+| 9    | Mar 15 | SPAs, Redux, Password Security        | Project Proposal           | 
+| 10   | Mar 22 | Using Web APIs; OAuth2                | HW09: CRUD - SPA + PW Auth |
+| 11   | Mar 29 | Canvas, WebGL, Web Assembly           | -                          |
+| 12   | Apr 05 | NoSQL                                 | Final Project              |
+| 13   | Apr 12 | Presentations Part 1 & 2              | -                          |
+| 14   | Apr 19 | Presentations Part 3                  | -                          |
 {% end %}
-
-(+) One Lecture Weeks
 
 Assignments will frequently be due at 11:59pm Friday.
 
@@ -91,6 +93,26 @@ registrar or your VPS provider should provide DNS service.
 You may not use a cloud server (e.g. Amazon EC2, Google Compute, Azure) in place
 of a VPS.
 
+## Pandemic Adaptations / Policies
+
+Due to the ongoing pandemic, we'll be using an altered course structure this
+semester as well as following the Northeastern policies.
+
+Course structure changes:
+
+ * Primary lecture content will be delivered in synchronous class meetings at
+   scheduled lecture times, available both in-person and remotely by video
+   conference. See Canvas for Zoom links.
+ * There will not be scheduled in-person office hours. Instead there will be
+   online office hours only.
+
+Make sure you are familiar with the [university
+policies](https://news.northeastern.edu/coronavirus/) for being on campus and
+attending classes during the COVID-19 pandemic. Specifically, you must [wear a
+mask and maintain social
+distancing](https://news.northeastern.edu/coronavirus/reopening/policies-and-protocols/)
+in the classroom while those policies remain in effect.
+
 ## Library, Framework, Tool, and Language Documentation
 
  - [HTML5](https://dev.w3.org/html5/html-author/)
@@ -107,7 +129,6 @@ of a VPS.
  - [ReactStrap](https://github.com/reactstrap/reactstrap)
  - [React Konva](https://github.com/lavrton/react-konva)
 
-
 ## Editors
 
 We will be writing code in several languages. Programming is much easier with
@@ -116,8 +137,9 @@ languages we are using. Most editors will do HTML / CSS / JS well out of the
 box. Elixir is supported less broadly - these editors should work well:
 
  - Vim with [vim-elixir](https://github.com/elixir-editors/vim-elixir)
+ - Emacs with lsp-mode and some effort.
  - [Spacemacs](http://spacemacs.org) with the elixir layer.
- - [Atom](https://atom.io/) with the packages language-elixir and auto-ident.
+ - [Atom](https://atom.io/) with the packages language-elixir and auto-indent.
  - [VS Code](https://github.com/VSCodium/vscodium)
 
 Submitted code with indentation that shows that you aren't using an editor with
@@ -127,7 +149,7 @@ harshly.
 ## Grading
 
  * Homework: 68%
- * Projects: 30%
+ * Project: 30%
  * Other:     2% (Participation, Challenges)
  
 ### Letter Grades
