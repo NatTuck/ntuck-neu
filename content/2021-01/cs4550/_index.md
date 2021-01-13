@@ -38,7 +38,7 @@ decisions, accomplishments, and user guidelines.
 {% striped() %}
 | Name                    | Location | Hours                    | Email                                |
 |-------------------------|----------|--------------------------|--------------------------------------|
-| Nat Tuck                | ???      | ???                      | ntuck ⚓ ccs.neu.edu                 |
+| Nat Tuck                | Online   | We 10am - 11am           | ntuck ⚓ ccs.neu.edu                 |
 {% end %}
 
 ## Schedule
