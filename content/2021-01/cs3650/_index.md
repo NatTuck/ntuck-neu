@@ -23,8 +23,8 @@ deadlock, memory management, file systems, and input/output control.
  - Discussion site
  - [Linux / Unix Help](http://www.ccs.neu.edu/course/cs3650/parent/help/)
  - Ferd's Scratch Repo
- - [Nat's Scratch Repo](https://github.com/NatTuck/scratch-2021-01) - A git repo of stuff
-   that may have happened in lecture.
+ - [Nat's Scratch Repo](https://github.com/NatTuck/scratch-2021-01) - A git repo
+   of stuff that may have happened in lecture.
  - Previous Semesters:
    [Notes](./notes), 
    [Online Lectures](https://ntuck-neu.site/2020-09/cs3650/lectures/)
@@ -32,7 +32,8 @@ deadlock, memory management, file systems, and input/output control.
 
 ## AMD64 ASM resources
 
- - [x86-64 SysV ABI](https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI) ([pdf](./asm/x86-64-sysv-abi.pdf))
+ - [x86-64 SysV ABI](https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI) 
+   ([pdf](./asm/x86-64-sysv-abi.pdf))
  - [AMD Programmer's Manual, Volume 3](https://support.amd.com/TechDocs/24594.pdf)
  - [AMD64 Linux
    Syscalls](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
@@ -54,8 +55,8 @@ deadlock, memory management, file systems, and input/output control.
 {% striped() %}
 | Name            | Location | Hours            | Email                       |
 |-----------------|----------|------------------|-----------------------------|
-| Nat Tuck        | ???      | ???              | ntuck ⚓ ccs.neu.edu        |
-| ... more ...    | ???      | ???              |  ...                        |
+| Nat Tuck        | Online   | 10-11am Th       | ntuck ⚓ ccs.neu.edu        |
+| Ferd Vesely     | Online   | ???              |  ...                        |
 {% end %}
 
  * Office hours run from January 25th to April 21st.
