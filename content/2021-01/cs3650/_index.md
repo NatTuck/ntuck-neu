@@ -20,7 +20,7 @@ deadlock, memory management, file systems, and input/output control.
 
  - [Inkfish](https://inkfish.ntuck-neu.site/) - View and submit homework
    assignments.
- - Discussion site
+ - [Piazza](https://piazza.com/northeastern/spring2021/cs3650) - Q&A
  - [Linux / Unix Help](http://www.ccs.neu.edu/course/cs3650/parent/help/)
  - Ferd's Scratch Repo
  - [Nat's Scratch Repo](https://github.com/NatTuck/scratch-2021-01) - A git repo
