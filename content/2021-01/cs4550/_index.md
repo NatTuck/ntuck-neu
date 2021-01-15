@@ -22,7 +22,7 @@ decisions, accomplishments, and user guidelines.
  - [Guides](./guides) - Instructions that might be useful.
  - [Nat's Scratch Repo](https://github.com/NatTuck/scratch-2021-01) - A git repo
    of stuff that may have happened in lecture.
- - Discussion site.
+ - [Piazza](https://piazza.com/northeastern/spring2021/cs4550) - Q&A
  - Zoom links for lectures are available on Canvas.
 
 ## Sections
@@ -35,10 +35,26 @@ decisions, accomplishments, and user guidelines.
 
 ## Office Hours
 
+Office hours will be held online using Khoury Office Hours and Microsoft Teams.
+
+Check the office hours calendar when you're planning your work. Use early office
+hours and don't rely on being able to get extensive help right before the due
+date.
+
+ - [Khoury Office Hours](https://officehours.khoury.northeastern.edu)
+ - [CS4550 Office Hours Calendar](https://outlook.office365.com/owa/calendar/77326df9a3cc4e3c804ae34923a24da6@northeastern.edu/19fe2baf54864671b410af44c4ce888815518400692254605308/calendar.html)
+
+# Course Staff
+
 {% striped() %}
-| Name                    | Location | Hours                    | Email                                |
-|-------------------------|----------|--------------------------|--------------------------------------|
-| Nat Tuck                | Online   | We 10am - 11am           | ntuck ⚓ ccs.neu.edu                 |
+| Name                    | Email                                |
+|-------------------------|--------------------------------------|
+| Nat Tuck                | ntuck ⚓ ccs.neu.edu                 |
+|-------------------------|--------------------------------------|
+| Anagha Bhosale          | bhosale.a ⚓ husky.neu.edu           |
+| Akash Boda              | boda.a ⚓ husky.neu.edu              |
+| Kunjan Devendra Khatri  | khatri.kun ⚓ husky.neu.edu          |
+| Ankita Mahapatra        | mahapatra.an ⚓ husky.neu.edu        |
 {% end %}
 
 ## Schedule

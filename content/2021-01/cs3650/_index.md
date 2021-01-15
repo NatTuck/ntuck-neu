@@ -50,14 +50,36 @@ deadlock, memory management, file systems, and input/output control.
 |      03 | Tuck       | SH 305   | 3:25pm-5:05pm Tu/Fr  |
 {% end %}
 
-## Staff & Office Hours
+## Office Hours
+
+Office hours will be held online using Khoury Office Hours and Microsoft Teams.
+
+Check the office hours calendar when you're planning your work. Use early office
+hours and don't rely on being able to get extensive help right before the due
+date.
+
+ - [Khoury Office Hours](https://officehours.khoury.northeastern.edu)
+ - [3650 Office Hours Calendar](https://outlook.office365.com/owa/calendar/77326df9a3cc4e3c804ae34923a24da6@northeastern.edu/0dbbbf1b9e064f4c893aa765aaa18f1e12908199066381895072/calendar.html)
+
+## Course Staff
 
 {% striped() %}
-| Name            | Location | Hours            | Email                       |
-|-----------------|----------|------------------|-----------------------------|
-| Nat Tuck        | Online   | 10-11am Th       | ntuck ⚓ ccs.neu.edu        |
-| Ferd Vesely     | Online   | ???              |  ...                        |
+| Name                       | Email                          |
+|----------------------------|--------------------------------|
+| Nat Tuck                   | ntuck ⚓ ccs.neu.edu           |
+| Ferd Vesely                | f.vesely ⚓ northeastern.edu   |
+|----------------------------|--------------------------------|
+| Grace Ding                 | ding.g ⚓ husky.neu.edu        |
+| Ethan Leba                 | leba.e ⚓ husky.neu.edu        |
+| Allison Lisciandro         | lisciandro.a ⚓ husky.neu.edu  |
+| Naveen Muralidhar          | muralidhar.na ⚓ husky.neu.edu |
+| Dhanashri Palodkar         | palodkar.d ⚓ northeastern.edu |
+| Jennifer Ribeiro           | ribeiro.je ⚓ husky.neu.edu    |
+| Akshat Mansukhlal Savaliya | savaliya.a ⚓ husky.neu.edu    |
+| Maxwell Sebso              | sebso.m ⚓ husky.neu.edu       |
+| Vincent Zhao               | zhao.v ⚓ husky.neu.edu        |
 {% end %}
+
 
  * Office hours run from January 25th to April 21st.
 
