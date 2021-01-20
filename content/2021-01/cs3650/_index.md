@@ -73,10 +73,9 @@ date.
 | Ethan Leba                 | leba.e ⚓ husky.neu.edu        |
 | Allison Lisciandro         | lisciandro.a ⚓ husky.neu.edu  |
 | Naveen Muralidhar          | muralidhar.na ⚓ husky.neu.edu |
-| Dhanashri Palodkar         | palodkar.d ⚓ northeastern.edu |
 | Jennifer Ribeiro           | ribeiro.je ⚓ husky.neu.edu    |
 | Akshat Mansukhlal Savaliya | savaliya.a ⚓ husky.neu.edu    |
-| Maxwell Sebso              | sebso.m ⚓ husky.neu.edu       |
+| Maxwell Sebso              | sebso.m ⚓ northeastern.edu    |
 | Vincent Zhao               | zhao.v ⚓ husky.neu.edu        |
 {% end %}
 
