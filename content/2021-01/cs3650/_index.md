@@ -22,9 +22,10 @@ deadlock, memory management, file systems, and input/output control.
    assignments.
  - [Piazza](https://piazza.com/northeastern/spring2021/cs3650) - Q&A
  - [Linux / Unix Help](http://www.ccs.neu.edu/course/cs3650/parent/help/)
- - Ferd's Scratch Repo
  - [Nat's Scratch Repo](https://github.com/NatTuck/scratch-2021-01) - A git repo
    of stuff that may have happened in lecture.
+ - [Ferd's Scratch Repo](https://github.ccs.neu.edu/fvesely/cs3650-class) - use
+   your Khoury account to log in
  - Previous Semesters:
    [Notes](./notes), 
    [Online Lectures](https://ntuck-neu.site/2020-09/cs3650/lectures/)
@@ -45,7 +46,7 @@ deadlock, memory management, file systems, and input/output control.
 {% striped() %}
 | Section | Instructor | Location | Time                 |
 |---------|------------|----------|----------------------|
-|      01 | Vesely     | HT 129   | 11:45am-1:25pm Mo/Th |
+|      01 | Vesely     | SH 305   | 11:45am-1:25pm Mo/Th |
 |      02 | Tuck       | SH 305   | 1:35pm-3:15pm Tu/Fr  |
 |      03 | Tuck       | SH 305   | 3:25pm-5:05pm Tu/Fr  |
 {% end %}
