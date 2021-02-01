@@ -51,10 +51,11 @@ date.
 |-------------------------|--------------------------------------|
 | Nat Tuck                | ntuck ⚓ ccs.neu.edu                 |
 |-------------------------|--------------------------------------|
-| Anagha Bhosale          | bhosale.a ⚓ husky.neu.edu           |
 | Akash Boda              | boda.a ⚓ husky.neu.edu              |
-| Kunjan Devendra Khatri  | khatri.kun ⚓ husky.neu.edu          |
+| Anagha Bhosale          | bhosale.a ⚓ husky.neu.edu           |
 | Ankita Mahapatra        | mahapatra.an ⚓ husky.neu.edu        |
+| Archana Ajith           | ajith.a ⚓ northeastern.edu          | 
+| Kunjan Devendra Khatri  | khatri.kun ⚓ husky.neu.edu          |
 {% end %}
 
 ## Schedule
