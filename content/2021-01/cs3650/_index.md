@@ -65,19 +65,20 @@ date.
 ## Course Staff
 
 {% striped() %}
-| Name                       | Email                          |
-|----------------------------|--------------------------------|
-| Nat Tuck                   | ntuck ⚓ ccs.neu.edu           |
-| Ferd Vesely                | f.vesely ⚓ northeastern.edu   |
-|----------------------------|--------------------------------|
-| Grace Ding                 | ding.g ⚓ husky.neu.edu        |
-| Ethan Leba                 | leba.e ⚓ husky.neu.edu        |
-| Allison Lisciandro         | lisciandro.a ⚓ husky.neu.edu  |
-| Naveen Muralidhar          | muralidhar.na ⚓ husky.neu.edu |
-| Jennifer Ribeiro           | ribeiro.je ⚓ husky.neu.edu    |
-| Akshat Mansukhlal Savaliya | savaliya.a ⚓ husky.neu.edu    |
-| Maxwell Sebso              | sebso.m ⚓ northeastern.edu    |
-| Vincent Zhao               | zhao.v ⚓ husky.neu.edu        |
+| Name                       | Email                           |
+|----------------------------|---------------------------------|
+| Nat Tuck                   | ntuck ⚓ ccs.neu.edu            |
+| Ferd Vesely                | f.vesely ⚓ northeastern.edu    |
+|----------------------------|---------------------------------|
+| Grace Ding                 | ding.g ⚓ husky.neu.edu         |
+| Ethan Leba                 | leba.e ⚓ husky.neu.edu         |
+| Allison Lisciandro         | lisciandro.a ⚓ husky.neu.edu   |
+| Naveen Muralidhar          | muralidhar.na ⚓ husky.neu.edu  |
+| Jennifer Ribeiro           | ribeiro.je ⚓ husky.neu.edu     |
+| Akshat Mansukhlal Savaliya | savaliya.a ⚓ husky.neu.edu     |
+| Maxwell Sebso              | sebso.m ⚓ northeastern.edu     |
+| Vincent Zhao               | zhao.v ⚓ husky.neu.edu         |
+| Zach Lieberman             | lieberman.z ⚓ northeastern.edu |
 {% end %}
 
 
