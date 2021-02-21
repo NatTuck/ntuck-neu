@@ -26,14 +26,15 @@ Deployment process:
  - Fetch JS deps and webpack.
  - Generate asset digests.
  - Once the above is done, you can create a release.
- - Test the release by running it in the foreground so you can see
+ - Test the release by running your start script so you can see
    log output.
  - The release can then be run either in place or by copying the
    release file to another identical machine.
 
 Setting up a systemd service:
 
- - Make sure you have a working start script using "foreground"
+ - Make sure you have a working start script using the start command
+   output by the "mix release" command.
  - Create a service file (see template in memory repo)
  - Copy it to /etc/systemd/system/yourapp.service
  - Enable it with: systemctl enable yourapp.service
