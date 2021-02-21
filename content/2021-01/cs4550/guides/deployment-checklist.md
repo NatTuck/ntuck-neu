@@ -12,6 +12,10 @@ System users:
    controlling system services (e.g. "service" command), or installing system
    packages (with apt).
 
+Server setup:
+
+ - Set server timezone: ```sudo dpkg-reconfigure tzdata```
+
 Before deployment:
 
  - Think about application secrets.
@@ -39,6 +43,11 @@ Setting up a systemd service:
  - Copy it to /etc/systemd/system/yourapp.service
  - Enable it with: systemctl enable yourapp.service
  - Start it with: service yourapp start
+
+TLS setup with certbot:
+
+ - sudo apt install certbot python3-certbot-nginx
+ - sudo certbot
 
 # The Actual Documentation
 

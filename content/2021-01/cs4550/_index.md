@@ -50,11 +50,11 @@ date.
 | Name                    | Email                                |
 |-------------------------|--------------------------------------|
 | Nat Tuck                | ntuck ⚓ ccs.neu.edu                 |
-|-------------------------|--------------------------------------|
-| Anagha Bhosale          | bhosale.a ⚓ husky.neu.edu           |
+| --                      | -                                    |
 | Akash Boda              | boda.a ⚓ husky.neu.edu              |
-| Kunjan Devendra Khatri  | khatri.kun ⚓ husky.neu.edu          |
+| Anagha Bhosale          | bhosale.a ⚓ husky.neu.edu           |
 | Ankita Mahapatra        | mahapatra.an ⚓ husky.neu.edu        |
+| Archana Ajith           | ajith.a ⚓ northeastern.edu          |
 {% end %}
 
 ## Schedule
@@ -76,8 +76,8 @@ semester starts.
 | 9    | Mar 15 | SPAs, Redux, Password Security        | Project Proposal           | 
 | 10   | Mar 22 | Using Web APIs; OAuth2                | HW09: CRUD - SPA + PW Auth |
 | 11   | Mar 29 | Canvas, WebGL, Web Assembly           | -                          |
-| 12   | Apr 05 | NoSQL                                 | Final Project              |
-| 13   | Apr 12 | Presentations Part 1 & 2              | -                          |
+| 12   | Apr 05 | NoSQL? Ethics?                        | Final Project              |
+| 13   | Apr 12 | Presentations Part 1 & 2              | HW10: Ethics?              |
 | 14   | Apr 19 | Presentations Part 3                  | -                          |
 {% end %}
 

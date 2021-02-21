@@ -1,6 +1,5 @@
 +++
 title = "Four Function Calculator"
-draft = true
 +++
 
 This is a supplemental task description for HW02, where we practice basic
